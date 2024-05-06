@@ -1,4 +1,3 @@
-````markdown
 # FoundersHub Website
 
 This is the official code repository for the FoundersHub website, a platform dedicated to connecting founders, investors, and talents within the Kenyan startup ecosystem. The project is built with Next.js and Tailwind CSS to deliver a responsive, modern, and scalable web application.
@@ -109,6 +108,7 @@ Ensure you have the following installed on your local development machine:
 ```bash
 git clone https://github.com/your-username/foundershub.git
 ```
+
 ````
 
 2. Navigate to the project directory:
@@ -163,4 +163,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ```
 
 Remember to replace placeholders like `your-username`, `your_twitter`, `email@example.com`, and other project-specific details with actual information relevant to your FoundersHub project. Also, modify any sections as necessary to fit your project structure and roadmap.
-```
+
+````

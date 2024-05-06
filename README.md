@@ -17,6 +17,7 @@ FoundersHub is designed to provide founders with access to opportunities, networ
 
 ## File Structure
 
+```
 foundershub/
 ├── components/ # Reusable components
 │ ├── auth/ # Authentication related components
@@ -89,6 +90,7 @@ foundershub/
 ├── postcss.config.js # PostCSS configuration for Tailwind CSS
 ├── tailwind.config.js # Tailwind CSS configuration
 └── README.md # Project README file
+```
 
 ## Getting Started
 
@@ -160,8 +162,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-```
-
-Remember to replace placeholders like `your-username`, `your_twitter`, `email@example.com`, and other project-specific details with actual information relevant to your FoundersHub project. Also, modify any sections as necessary to fit your project structure and roadmap.
 
 ````
